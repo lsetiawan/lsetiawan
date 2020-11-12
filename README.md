@@ -1,16 +1,16 @@
-### Hi there 👋
+<h3 align="center">👋 Hi, I'm Don.</h3>
 
-<!--
-**lsetiawan/lsetiawan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  <a href="https://linkedin.com/in/landungsetiawan">Linkedin</a>
+</p>
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I am a Research Software Engineer at the University of Washington with a strong focus in designing, developing, and maintaining scientific data analysis systems. I am a contributor to various open source software. I love to learn new technologies and apply them in my work.
+
+
+- 🔭 I’m currently working on <a href="https://interactiveoceans.washington.edu/">Interactive Oceans Data Portal</a>.
+- 🌱 I’m currently learning data engineering.
+- 💬 Ask me about geospatial information systems, data science, and web development.
+- 😄 Pronouns: he/him
+- ⚡ Fun fact: I love electronic dance music! And I also play guitar 🎸.
