@@ -14,3 +14,5 @@ I am a Research Software Engineer at the University of Washington with a strong 
 - 💬 Ask me about geospatial information systems, data science, and web development.
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: I love electronic dance music! And I also play guitar 🎸.
+
+![Github stats](https://github-readme-stats.vercel.app/api?username=lsetiawan&show_icons=true)
