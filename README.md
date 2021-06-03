@@ -7,7 +7,7 @@
 
 ---
 
-I am a Research Software Engineer at the University of Washington with a strong focus in designing, developing, and maintaining scientific data analysis systems. I am a contributor to various open source software. I love to learn new technologies and apply them in my work.
+I am a Research Software Engineer at the University of Washington with a strong focus in designing, developing, and maintaining scientific data analysis systems. I am a contributor to various open source software. I learning new technologies and apply them in my work.
 
 
 - 🔭 I’m currently working on <a href="https://interactiveoceans.washington.edu/">Interactive Oceans Data Portal</a>.
