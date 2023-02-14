@@ -16,3 +16,4 @@ I am a Research Software Engineer at the University of Washington (UW) with a st
 - 💬 Ask me about geospatial information systems, data science, and web development.
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I love electronic dance music! And I also play guitar 🎸.
+- 🌐 I'm Indonesian American 🇺🇸🇮🇩
