@@ -17,3 +17,5 @@ I am a Research Software Engineer at the University of Washington (UW) with a st
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I love electronic dance music! And I also play guitar 🎸.
 - 🌐 I'm Indonesian American 🇺🇸🇮🇩
+
+![Github stats](https://github-readme-stats.vercel.app/api?username=lsetiawan&show_icons=true)
