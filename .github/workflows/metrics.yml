@@ -1,0 +1,34 @@
+# Based off of https://github.com/lowlighter/metrics
+name: Metrics
+on:
+  # Weekly updates
+  schedule: [{cron: "0 0 * * 1"}]
+  push: {branches: ["main"]}
+  workflow_dispatch:
+jobs:
+  github-metrics:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: lowlighter/metrics@latest
+        with:
+          # Your GitHub token
+          token: ${{ secrets.GH_METRICS }}
+          # Repository-specific GITHUB_TOKEN for commits
+          committer_token: ${{ secrets.GITHUB_TOKEN }}
+          # Fancy isometric calendar
+          filename: metrics.plugin.isocalendar.svg
+          plugin_isocalendar: yes
+
+          # Options
+          user: lsetiawan
+          template: classic
+          base: header, activity, community, repositories, metadata
+          config_animations: yes
+          config_timezone: America/Pacific
+          plugin_languages: yes
+          plugin_languages_ignored: tex, less, dockerfile, makefile, qmake, lex, cmake, shell
+          plugin_habits: yes
+          plugin_habits_from: 250
+          plugin_habits_days: 14
+          plugin_habits_facts: yes
+          plugin_habits_charts: yes
